@@ -5,6 +5,8 @@ Supporting files for workshops and sessions about creating a developer work flow
 
 You may also be interested in the companion book, [Git for Teams](http://shop.oreilly.com/product/0636920034520.do), and the hands-on videos [Collaborating with Git](http://shop.oreilly.com/product/0636920034872.do).
 
+This repository blah blah blah...
+
 ## Content
 
 */slides*
